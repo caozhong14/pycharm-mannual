@@ -1,6 +1,6 @@
 # pycharm-mannual
 problems for record
-如何通过pycharm实现远程代码的调试和开发</href = http://www.jianshu.com/p/79df9ac88e96>
+<a href = http://www.jianshu.com/p/79df9ac88e96>如何通过pycharm实现远程代码的调试和开发</a>
 144 作者 如烟花非花
 2017.04.27 15:57 字数 954 阅读 98评论 0喜欢 2
 写在前面
@@ -11,7 +11,7 @@ problems for record
 默认的开发语言是python，那么python开发的一个重要事项是包管理。想想那么多负责的包，如果没有好的包管理系统，在本机搭建一个包环境是多么复杂。于是放弃了本地构建包的想法——使用远程包。
 pycharm作为一款强大的IDE，很好的实现了这个功能。
 
-        点击file->settings，找到如图示所示的页面（project Interpreter），点击下拉框后边的设置图标，能找到红框标识的选项，点击“Add Remote”。
+    1.点击file->settings，找到如图示所示的页面（project Interpreter），点击下拉框后边的设置图标，能找到红框标识的选项，点击“Add Remote”。
 
         图示1.png
 
@@ -38,7 +38,7 @@ pycharm作为一款强大的IDE，很好的实现了这个功能。
     1.创建开发模式的sftp连接。设置位置如下图：
 
     图示7.png
-        点击加号，弹出下框，名字自己填，type下拉选择sftp，弹出框后，按照需求把相关的字段填好。如图示9所示。
+    2. 点击加号，弹出下框，名字自己填，type下拉选择sftp，弹出框后，按照需求把相关的字段填好。如图示9所示。
 
         图示8.png
 
